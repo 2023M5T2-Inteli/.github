@@ -12,7 +12,7 @@ Desenvolver um equipamento automatizado que tenha capacidade aplicar um campo ma
 
 Funcionários da área de materiais avançados do IPT.
 
-## 💻 Desenvolvimento de jogo digital:
+## 💻 Concepção de sistema de automação industrial:
 
 - Grupo 1 - Magnetum - Concepção de sistema de automação industrial para separação magnética
   - Link do repositório: https://github.com/2023M5T2-Inteli/tectonics
